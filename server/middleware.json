@@ -32,10 +32,7 @@
   },
   "session": {},
   "auth": {
-    "loopback-component-oauth2#authenticate": []
   },
-  "auth:after": {
-  },  
   "parse": {},
   "routes": {
     "loopback#rest": {
